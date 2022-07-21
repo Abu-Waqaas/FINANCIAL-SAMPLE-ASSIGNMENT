@@ -21,7 +21,7 @@ The data was split into segments, because it was initially used to practice Data
  
 
 ### ANALYSIS / OBSERVATION
-1.	The total sales made for the five years is $2,297,200 approximately $2.3 M
+1.	The total sales made for the five years is $2,297,200 approximately $2.3 Million
 
  ![image](https://user-images.githubusercontent.com/106377378/180289735-c701f0bf-9bcf-4c47-9052-57fddc637084.png)
 
