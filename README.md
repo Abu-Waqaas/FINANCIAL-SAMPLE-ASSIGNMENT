@@ -19,7 +19,6 @@ This data was cleaned in Power Query, and some transformations were also made to
 The data was split into segments, because it was initially used to practice Data Modelling, and it was after the modelling, we were instructed to visualize the data.
 
  
-
 ### ANALYSIS / OBSERVATION
 1.	The total sales made for the five years is $2,297,200 approximately $2.3 Million.
 
